@@ -1,5 +1,6 @@
 # Waypoint
-n![Waypoint demo](docs/demo.gif)
+
+![Waypoint demo](docs/demo.gif)
 
 Waypoint is a React/Vite student app with a FastAPI/SQLite backend, a local Hermes
 Agent gateway, and local Laya email classification. It includes learning roadmaps,
